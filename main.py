@@ -2,7 +2,6 @@
 
 import telepot
 import time
-# from roleRules import *
 from random import randint
 from telepot.loop import MessageLoop
 from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
